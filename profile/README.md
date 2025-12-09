@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="images/hyperalis_labs_workmark_full_cropped.png" height="90">
+  <img src="https://github.com/HyperalisLabs/Hyperalis_Website/blob/main/images/hyperalis_labs_workmark_full_cropped.png?raw=true" height="90">
 </p>
 
 # HyperalisLabs  
