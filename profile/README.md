@@ -1,4 +1,8 @@
-# Hyperalis  
+<p align="left">
+  <img src="images/hyperalis_labs_workmark_full_cropped.png" height="90">
+</p>
+
+# HyperalisLabs  
 Advancing Applied AI for Earth Observation
 
 Hyperalis builds reproducible, trustworthy implementations of the newest state-of-the-art AI and computer-vision research for Earth observation.  
